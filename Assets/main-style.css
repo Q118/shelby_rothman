@@ -1,0 +1,26 @@
+body {
+    /*Iron Man logo for the background */
+
+    background-image: url("assets/iron-man.jpg");
+    background-color: black;
+}
+.container {
+    background-color: #f2e8f7;
+    padding: 20px;
+    color: #5b024b;
+    border-width: 6px;
+    border-color: #5b024b;
+    border-style: double;
+    font-family: "Montserrat", sans-serif;
+}
+
+footer {
+    text-align: center;
+    background-color: #f2e8f7;
+    opacity: 0.5;
+}
+
+h2,
+h1 {
+    font-family: "Metal Mania", cursive;
+}
