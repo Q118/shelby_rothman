@@ -1,27 +1,27 @@
-body {
-    /*Iron Man logo for the background */
+/** @format */
 
-    background-image: url("background1.jpg");
-    background-color: black;
-    background-size: 250px 250px;
+body {
+	background-image: url("background1.jpg");
+	background-color: black;
+	background-size: 250px 250px;
 }
 .container {
-    background-color: #f2e8f7;
-    padding: 20px;
-    color: #5b024b;
-    border-width: 6px;
-    border-color: #5b024b;
-    border-style: double;
-    font-family: "Montserrat", sans-serif;
+	background-color: #f2e8f7;
+	padding: 20px;
+	color: #5b024b;
+	border-width: 6px;
+	border-color: #5b024b;
+	border-style: double;
+	font-family: "Montserrat", sans-serif;
 }
 
 footer {
-    text-align: center;
-    background-color: #f2e8f7;
-    opacity: 0.5;
+	text-align: center;
+	background-color: #f2e8f7;
+	opacity: 0.5;
 }
 
 h2,
 h1 {
-    font-family: "Metal Mania", cursive;
+	font-family: "Metal Mania", cursive;
 }
