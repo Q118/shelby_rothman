@@ -6,11 +6,11 @@ body {
 	background-size: 250px 250px;
 }
 .container {
-	background-color: #f2e8f7;
+	background-color: #ffc8b3;
 	padding: 20px;
-	color: #5b024b;
+	color: #5c39b1;
 	border-width: 6px;
-	border-color: #5b024b;
+	border-color: #5c39b1;
 	border-style: double;
 	font-family: "Montserrat", sans-serif;
 }
