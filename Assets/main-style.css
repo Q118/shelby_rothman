@@ -1,8 +1,9 @@
 body {
     /*Iron Man logo for the background */
 
-    background-image: url("assets/iron-man.jpg");
+    background-image: url("background1.jpg");
     background-color: black;
+    background-size: 250px 250px;
 }
 .container {
     background-color: #f2e8f7;
