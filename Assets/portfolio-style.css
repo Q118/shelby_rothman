@@ -1,8 +1,9 @@
 body {
     /*Iron Man logo for the background */
     font-family: "Montserrat", sans-serif;
-    background-image: url("iron-man.jpg");
+    background-image: url("background2.jpg");
     background-color: black;
+    background-size: 250px 250px;
 }
 
 h2,
@@ -16,12 +17,13 @@ footer {
 }
 
 .container {
-    background-color: #96f9d0;
+    background-color: #cceff3;
     padding: 20px;
-    color: #016214;
+    color: #f60f15;
     border-width: 6px;
-    border-color: #016214;
+    border-color: #f60f15;
     border-style: double;
+    font-weight: bold;
 }
 /*adjusting height so the photos fill up their card*/
 .card-img {
