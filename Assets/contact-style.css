@@ -24,3 +24,8 @@ h2,
 h1 {
     font-family: "Metal Mania", cursive;
 }
+
+.btn {
+	border-color: #2c3640;
+	background-color: #d7d7d5;
+}
