@@ -1,21 +1,22 @@
 body {
     /*Iron Man logo for the background */
     font-family: "Montserrat", sans-serif;
-    background-image: url("Assets/iron-man.jpg");
+    background-image: url("background3.jpg");
+    background-size: 350px 350px;
     background-color: black;
 }
 .container {
-    background-color: #f1c3a2;
+    background-color: #d7d7d5;
     padding: 20px;
-    color: #d20505;
+    color: #2c3640;
     border-width: 6px;
-    border-color: #d20505;
+    border-color: #2c3640;
     border-style: double;
 }
 
 footer {
     text-align: center;
-    background-color: #f1c3a2;
+    background-color: #d7d7d5;
     opacity: 0.5;
 }
 
