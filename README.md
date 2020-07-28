@@ -2,27 +2,47 @@
 
 ![](https://github.com/Q118/shelby_rothman/blob/master/Assets/app-screenshot.png)
 
-[Link to Deployed Webpage](https://q118.github.io/shelby_rothman/)
+A portfolio to display my work, contact info, skills, and more. Showcasing putting all my skills to work with a mobile responsive site and updated portfolio.
 
-## Requirements
 
-* Updated portfolio featuring project 1 and two exemplary homework assignments. 
-maybe my moving box? 
+## Table of Contents
+    
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#🛡Badge📛)
+* [Contact](#Contact)
 
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
 
-* Updated resume
+## Installation
 
-* Updated LinkedIn profile
+Open the web[age in Chrome to view it on your computer or mobile device. Links to my other work, social media, and contact info are there as well.
 
 
 ## USAGE
-    View resume on the portfolio page
-    Click on links to view other projects and contact information
 
-## CREDITS
+[Link to Deployed Webpage](https://q118.github.io/shelby_rothman/)
 
-* https://getbootstrap.com/
-* https://imagecolorpicker.com/en
-* https://www.w3schools.com/
+
+## 🛡Badge📛
+
+![](https://img.shields.io/badge/Shelby-Anne-purple)
+
+
+## Contributing
+        
+Please feel free to fork, add comments, and share.
+    
+        
+## Tests
+    
+Test to be done through VScode and Chrome.
+    
+    
+## Contact
+    
+Reach out to me with any questions!
+    
+* [Visit my GitHub Page](https://github.com/q118).
+* [Send me an Email](mailto:shelbyfish91@gmail.com).
+* [View more of my apps in my portfolio](https://q118.github.io/shelby_rothman/portfolio.html).
 
